@@ -24,5 +24,5 @@ An intuitive and responsive web-based notes app built with **TypeScript**. Creat
 
 1. **Clone the repository**
    ```bash
-   
-   cd online-notes-app
+   https://github.com/AbdulMuizz0517/Online-Notes-App.git
+   cd Notes App
